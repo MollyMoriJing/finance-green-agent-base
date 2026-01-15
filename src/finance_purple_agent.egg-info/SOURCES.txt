@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+src/analyst.py
+src/finance_purple_agent.egg-info/PKG-INFO
+src/finance_purple_agent.egg-info/SOURCES.txt
+src/finance_purple_agent.egg-info/dependency_links.txt
+src/finance_purple_agent.egg-info/requires.txt
+src/finance_purple_agent.egg-info/top_level.txt
